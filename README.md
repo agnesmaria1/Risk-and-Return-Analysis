@@ -1,6 +1,6 @@
 # Risk-and-Return-Analysis
 
-This is a python machine learning using pandas to .
+This is a python machine learning using pandas that offer clients a one-stop online investment solution for their retirement portfolios that’s both inexpensive and high quality.
 
 ---
 
